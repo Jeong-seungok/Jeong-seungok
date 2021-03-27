@@ -8,8 +8,6 @@
 
 ## 나의 개발 수칙 👍
 
-<hr/>
-
 - 나만의 보폭으로 꾸준히 성장하기
 - 주변 팀원, 동료에 도움이 되도록 꾸준히 소통하기
 - 나만 알 수 있는 코드가 아닌 누구나 쉽게 이해할 수 있도록 꾸준히 고민하기
@@ -18,7 +16,6 @@
 
 ## 나의 개발 스택 📌
 
-<hr/>
 <img src="https://media.vlpt.us/images/jacoblee19/post/37558a06-0678-4657-adb2-e1e957e6d8f0/html.webp" alt="HTML" width="50" height="50" style="object-fit:cover; border-radius:50%;">
 <img src="https://media.vlpt.us/images/daybreak/post/1c7df7ec-65ee-4617-8b97-31dddd944dc3/css.jpg" alt="CSS" width="50" height="50" style="object-fit:cover;border-radius:50%;">
 <img src="https://heropy.blog/css/images/vendor_icons/sass.png" alt="CSS" width="50" height="50" style="object-fit:cover;border-radius:50%;">
@@ -29,6 +26,5 @@
 
 ## 나의 개발 공간 📦
 
-<hr/>
 <a href="https://velog.io/@vsnm25" target="_blank"><img src="https://media.vlpt.us/images/velog/post/ebf87853-b6b7-47af-a659-d97fb39e66b0/velog_logo.png" alt="벨로그" width="50" height="50" style="object-fit:cover;border-radius:50%;"></a>
 <a href="https://velog.io/@vsnm25" target="_blank"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="깃허브" width="50" height="50" style="object-fit:cover;border-radius:50%;"></a>
