@@ -16,8 +16,8 @@
 <a><img src="https://media.vlpt.us/images/daybreak/post/1c7df7ec-65ee-4617-8b97-31dddd944dc3/css.jpg" alt="CSS" width="50" height="50"></a>
 <a><img src="https://heropy.blog/css/images/vendor_icons/sass.png" alt="CSS" width="50" height="50"></a>
 <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="자바스크립트" width="50" height="50"></a>
-<a><img src="https://reactjs-kr.firebaseapp.com/logo-og.png" alt="리액트" width="50" height="50"></a>
-
+<a><img src="https://reactjs-kr.firebaseapp.com/logo-og.png" alt="리액트" width="50" height="50"></a><br/>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jeong-seungok)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 나의 개발 공간 📦
 
