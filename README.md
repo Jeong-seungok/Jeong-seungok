@@ -22,4 +22,4 @@
 ## 나의 개발 공간 📦
 
 <a href="https://velog.io/@vsnm25"><img src="https://media.vlpt.us/images/velog/post/ebf87853-b6b7-47af-a659-d97fb39e66b0/velog_logo.png" alt="벨로그" width="50" height="50"></a>
-<a href="https://github.com/Jeong-seungok"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="깃허브" width="50" height="50"></a>
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/Jeong-seungok)](https://github.com/Jeong-seungok)
