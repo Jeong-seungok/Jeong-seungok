@@ -17,6 +17,4 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jeong-seungok)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 나의 개발 공간 📦
-
-<a href="https://velog.io/@vsnm25"><img src="https://media.vlpt.us/images/velog/post/ebf87853-b6b7-47af-a659-d97fb39e66b0/velog_logo.png" alt="벨로그" width="50" height="50"></a>
 [![GitHub Badge](http://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/Jeong-seungok)](https://github.com/Jeong-seungok)
