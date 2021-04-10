@@ -22,4 +22,4 @@
 
 ## 나의 개발 공간 📦
 [![GitHub Badge](http://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/Jeong-seungok)](https://github.com/Jeong-seungok)
-<img src="https://img.shields.io/badge/Vector Logo Zone-55ac93?style=flat-square&logo=Velog"/>
+<a href="https://velog.io/@vsnm25"><img src="https://img.shields.io/badge/Velog-55ac93?style=flat-square&logo=Vector-Logo-Zone"/></a>
