@@ -13,8 +13,13 @@
 ## 나의 개발 스택 📌
 
 
-<img src="https://img.shields.io/badge/JavaScript-ffa500?style=flat-square&logo=JavaScript&logoColor=#F7DF1E"/></a><br/>
+<img src="https://img.shields.io/badge/JavaScript-ffa500?style=flat-square&logo=JavaScript"/></a>
+<img src="https://img.shields.io/badge/HTML-tomato?style=flat-square&logo=HTML5"/></a>
+<img src="https://img.shields.io/badge/CSS-blue?style=flat-square&logo=CSS3"/></a>
+<img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=React"/></a>
+<br/>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jeong-seungok)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 나의 개발 공간 📦
 [![GitHub Badge](http://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/Jeong-seungok)](https://github.com/Jeong-seungok)
+[![GitHub Badge](http://img.shields.io/badge/-Velog-54ac93?style=flat-square&logo=github&link=https://velog.io/@vsnm25)](https://velog.io/@vsnm25)
