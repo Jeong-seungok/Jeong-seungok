@@ -11,11 +11,11 @@
 - 나만 알 수 있는 코드가 아닌 누구나 쉽게 이해할 수 있도록 꾸준히 고민하기
 
 ## 나의 개발 스택 📌
-<a><img src="https://img.shields.io/badge/JavaScript-ffa500?style=flat-square&logo=JavaScript"/></a>
-<a><img src="https://img.shields.io/badge/HTML-tomato?style=flat-square&logo=HTML5"/></a>
-<a><img src="https://img.shields.io/badge/CSS-blue?style=flat-square&logo=CSS3"/></a>
-<a><img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=React"/></a>
-<a><img src="https://img.shields.io/badge/NodeJS-yellow?style=flat-square&logo=NodeJS"/></a>
+<img src="https://img.shields.io/badge/JavaScript-ffa500?style=flat-square&logo=JavaScript"/></a>
+<img src="https://img.shields.io/badge/HTML-tomato?style=flat-square&logo=HTML5"/></a>
+<img src="https://img.shields.io/badge/CSS-blue?style=flat-square&logo=CSS3"/></a>
+<img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=React"/></a>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
 <br/>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jeong-seungok)](https://github.com/anuraghazra/github-readme-stats)
 
