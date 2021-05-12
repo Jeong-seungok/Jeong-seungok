@@ -15,6 +15,7 @@
 <a><img src="https://img.shields.io/badge/HTML-tomato?style=flat-square&logo=HTML5"/></a>
 <a><img src="https://img.shields.io/badge/CSS-blue?style=flat-square&logo=CSS3"/></a>
 <a><img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=React"/></a>
+<a><img src="https://img.shields.io/badge/NodeJS-yellow?style=flat-square&logo=NodeJS"/></a>
 <br/>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jeong-seungok)](https://github.com/anuraghazra/github-readme-stats)
 
